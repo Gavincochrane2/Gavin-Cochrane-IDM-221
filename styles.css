@@ -28,7 +28,7 @@ text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 75%;
   }
   .important {
     text-align: center;
@@ -63,6 +63,7 @@ body ul {
   justify-content: center;
   justify-items: center;
   align-items: center;
+  box-sizing: border-box;
 }
 
 header p {
