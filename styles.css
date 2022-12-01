@@ -3,7 +3,7 @@ html {
     margin-left: 16px;
     margin-right: 16px;
     margin-bottom: 16px;
-    margin-top: 16px;
+    margin-top: 16px; 
     
 }
 
@@ -47,11 +47,11 @@ body ul {
     align-content: center;
     margin-right: 20px;
     text-decoration: underline;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 12px;
+    padding-bottom: 12px;
     margin-right: 0%;
     padding-left: 0%;
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
     border-radius: 8px;
     border-color: black;
     border-width: 5px;
