@@ -99,7 +99,7 @@ footer ul {
 }
 p.about {
     font-family: PPEditorialNew-Regular, Arial, Helvetica, sans-serif;
-    src: url(/CSS/Fonts/PPEditorialNew-Regular.woff2) format('woff2');
+    src: url(CSS/Fonts/PPEditorialNew-Regular.woff2) format('woff2');
     border-style: solid;
     border-color: whitesmoke;
     border-width: 5px;
