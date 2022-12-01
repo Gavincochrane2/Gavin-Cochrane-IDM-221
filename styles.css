@@ -7,12 +7,14 @@ html {
     
 }
 @font-face {
-  font-family: 'PPEditorialNew-Ultralight';
-  src: url('CSS/Fonts/PPEditorialNew-Ultralight.woff2') format('woff2');
-
+  
   font-family: 'PPEditorialNew-Regular';
   src: url('CSS/Fonts/PPEditorialNew-Regular.woff2') format('woff2');
 
+}
+@font-face {
+  font-family: 'PPEditorialNew-Ultralight';
+  src: url('CSS/Fonts/PPEditorialNew-Ultralight.woff2') format('woff2');
 }
 
 body p {
