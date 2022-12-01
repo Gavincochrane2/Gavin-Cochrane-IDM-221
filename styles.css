@@ -83,4 +83,5 @@ main p {
   align-items: flex-start;
   background-color: rgb(158, 158, 158);
   background-size: auto;
+  margin-bottom: 48px;
 }
