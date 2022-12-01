@@ -24,6 +24,9 @@ h1, h2{
 text-align: center;
     text-decoration: underline;
 }
+header h1 {
+  margin-top: 0px;
+}
 .center {
     display: block;
     margin-left: auto;
