@@ -28,6 +28,10 @@ body p {
 
 
 }
+main p {
+    font-family: 'PPEditorialNew-Ultralight', Arial, Helvetica, sans-serif;
+    src: url('CSS/Fonts/PPEditorialNew-Ultralight.woff2') format('woff2');
+}
 h1, h2{
     color: white;
     background-color: rgb(25, 6, 6);
