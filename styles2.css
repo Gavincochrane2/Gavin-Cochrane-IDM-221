@@ -34,6 +34,10 @@ body p {
 main p {
     font-family: 'PPEditorialNew-Ultralight', Arial, Helvetica, sans-serif;
     src: url('css/fonts/PPEditorialNew-Ultralight.woff2') format('woff2');
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 5px;
+    background-color: rgb(158, 158, 158);
 }
 h1, h2{
     color: white;
@@ -43,6 +47,7 @@ text-align: center;
     margin-top: 48px;
     
 }
+
 #container {
     display: flex;
     justify-content: center;
@@ -173,6 +178,10 @@ header p {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-style: solid;
+  border-color: whitesmoke;
+  border-width: 5px;
+  background-color: rgb(158, 158, 158);
 
   
   
@@ -185,6 +194,10 @@ header p {
   background-color: rgb(158, 158, 158);
   font-size: large;
   margin-top: 50px;
+  border-style: solid;
+  border-color: whitesmoke;
+  border-width: 5px;
+  background-color: rgb(158, 158, 158);
 
 
 
