@@ -82,6 +82,15 @@ body ul {
   align-items: center;
   box-sizing: border-box;
 }
+.contact {
+  display: flex;
+  flex-direction: column;
+  border-style: groove;
+  border-color: rgb(0, 0, 0);
+  border-width: 5px;
+  border-radius: 8px;
+  margin-bottom: 36px;
+}
 
 header p {
   display: flex;
