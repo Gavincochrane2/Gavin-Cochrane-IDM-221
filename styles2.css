@@ -145,7 +145,7 @@ p.about {
 a:link{
     color: rgb(7, 72, 112);
   }
-  
+
 main ul {
     display: flex;
     flex-direction: column;
@@ -197,6 +197,7 @@ header p {
   
   
 }
+
 
  p { 
   display: flex;
