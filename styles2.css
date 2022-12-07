@@ -135,6 +135,15 @@ p.about {
     border-radius: 8px;
     margin-bottom: 36px;
 }
+/* unvisited link */
+a:link {
+    color: rgb(7, 72, 112);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(0, 0, 0);
+  }
 main ul {
     display: flex;
     flex-direction: column;

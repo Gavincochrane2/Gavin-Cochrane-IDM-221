@@ -75,6 +75,15 @@ body ul {
     border-style: inset;
 
 }
+/* unvisited link */
+a:link {
+  color: rgb(7, 72, 112);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(0, 0, 0);
+}
 .center {
   display: flex;
   justify-content: center;
